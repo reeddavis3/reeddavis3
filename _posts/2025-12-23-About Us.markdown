@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+categories: about
+---
+This is just a test/demo website for Venture Craft Coffee
