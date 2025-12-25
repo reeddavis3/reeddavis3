@@ -1,6 +1,5 @@
 ---
 title: "Evaporated Milk Hot Cocoa"
-permalink: /evaporated-milkhot-cocoa/
 image: 
   path: /images/hotcocoa.jpg
   thumbnail: /images/hotcocoa.jpg
