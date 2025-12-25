@@ -1,6 +1,0 @@
----
-layout: post
-title:  "About Us"
-categories: about
----
-This is just a test/demo website for Venture Craft Coffee

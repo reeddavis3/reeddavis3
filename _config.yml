@@ -1,8 +1,7 @@
 title: Venture
 email: admin@venturecraftcoffee.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is just a small sample website/menu
-  demo for Venture Craft Coffee
+  Venture Craft Coffee
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://venturecraftcoffee.com" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
