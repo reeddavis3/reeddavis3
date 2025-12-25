@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Cinnamon Toast Crunch Latte
 layout: post
-permalink: /drinkname/
+permalink: /cinnamontoastcrunchlatte/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Cinnamon Toast Crunch Latte"
 ---
 
 Content of page: 

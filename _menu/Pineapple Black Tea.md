@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Pineapple Black Tea
 layout: post
-permalink: /drinkname/
+permalink: /pineappleblacktea/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Pineapple Black Tea"
 ---
 
 Content of page: 

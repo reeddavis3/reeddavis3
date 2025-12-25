@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: S'mores Frappuccino
 layout: post
-permalink: /drinkname/
+permalink: /smoresfrappuccino/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "S'mores Frappuccino"
 ---
 
 Content of page: 

@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Strawberry Green Tea
 layout: post
-permalink: /drinkname/
+permalink: /strawberrygreentea/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Strawberry Green Tea"
 ---
 
 Content of page: 

@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Thin Mint Latte
 layout: post
-permalink: /drinkname/
+permalink: /thinmintlatte/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Thin Mint Latte"
 ---
 
 Content of page: 

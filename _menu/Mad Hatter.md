@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Mad Hatter
 layout: post
-permalink: /drinkname/
+permalink: /madhatter/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Mad Hatter"
 ---
 
 Content of page: 

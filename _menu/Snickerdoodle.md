@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Snickerdoodle
 layout: post
-permalink: /drinkname/
+permalink: /snickerdoodle/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Snickerdoodle"
 ---
 
 Content of page: 

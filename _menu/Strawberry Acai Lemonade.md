@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Strawberry Acai Lemonade
 layout: post
-permalink: /drinkname/
+permalink: /strawberryacailemonade/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Strawberry Acai Lemonade"
 ---
 
 Content of page: 

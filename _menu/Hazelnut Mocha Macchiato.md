@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Hazelnut Mocha Macchiato
 layout: post
-permalink: /drinkname/
+permalink: /hazelnutmochamacchiato/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Hazelnut Mocha Macchiato"
 ---
 
 Content of page: 

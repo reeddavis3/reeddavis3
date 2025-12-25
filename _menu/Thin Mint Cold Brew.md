@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Thin Mint Cold Brew
 layout: post
-permalink: /drinkname/
+permalink: /thinmintcoldbrew/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Thin Mint Cold Brew"
 ---
 
 Content of page: 

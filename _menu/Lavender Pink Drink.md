@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Lavender Pink Drink
 layout: post
-permalink: /drinkname/
+permalink: /lavenderpinkdrink/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Lavender Pink Drink"
 ---
 
 Content of page: 

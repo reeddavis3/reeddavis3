@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[Check out the menu!]({% link menu.md %})

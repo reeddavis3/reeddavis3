@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Beetlejuice
 layout: post
-permalink: /drinkname/
+permalink: /beetlejuice/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Beetlejuice Beetlejuice Beetlejui- Match!"
 ---
 
 Content of page: 

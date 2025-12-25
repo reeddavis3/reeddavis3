@@ -1,9 +1,10 @@
 ---
 title: "Evaporated Milk Hot Cocoa"
+permalink: /evaporatedmilkhotcocoa/
 image: 
-  path: /images/hotcocoa.jpg
-  thumbnail: /images/hotcocoa.jpg
-  caption: "Drink Name"
+  path: /images/hotcocoa.jpeg
+  thumbnail: /images/hotcocoa.jpeg
+  caption: "Evaporated Milk Hot Cocoa"
 ---
 
 

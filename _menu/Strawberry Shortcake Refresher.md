@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Strawberry Shortcake Refresher
 layout: post
-permalink: /drinkname/
+permalink: /strawberryshortcakerefresher/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Strawberry Shortcake Refresher"
 ---
 
 Content of page: 

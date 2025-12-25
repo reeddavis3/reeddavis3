@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Honey Bun Frappuccino
 layout: post
-permalink: /drinkname/
+permalink: /honeybunfrappuccino/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Honey Bun Frappuccino"
 ---
 
 Content of page: 

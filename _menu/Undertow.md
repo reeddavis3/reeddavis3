@@ -1,12 +1,12 @@
 ---
-title: Drink Name
+title: Undertow
 layout: post
-permalink: /drinkname/
+permalink: /undertow/
 collection: menu
 image: 
   path: /images/logo.jpg
   thumbnail: /images/logo-small.jpg
-  caption: "Drink Name"
+  caption: "Undertow"
 ---
 
 Content of page: 
